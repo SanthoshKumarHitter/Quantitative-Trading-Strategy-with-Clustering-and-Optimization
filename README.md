@@ -1,0 +1,2 @@
+# Quantitative-Trading-Strategy-with-Clustering-and-Optimization
+A Quantitative Trading Strategy leveraging clustering and optimization techniques to enhance portfolio performance. By grouping similar stocks and optimizing allocations, this approach aims to improve returns and manage risk effectively. This strategy integrates advanced machine learning and financial modelling for robust trading decisions.
